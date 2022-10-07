@@ -1,0 +1,14 @@
+﻿生成启动时间为 2022/8/13 20:53:15。
+     1>项目“E:\c\Project12\Project12\Project12.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Project12.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt .c
+         .c
+     1>e:\c\project12\project12\.c(11): error C2065: “｝”: 未声明的标识符
+     1>e:\c\project12\project12\.c(11): fatal error C1075: 与左侧的 大括号“{”(位于“e:\c\project12\project12\.c(4)”)匹配之前遇到文件结束
+     1>已完成生成项目“E:\c\Project12\Project12\Project12.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.42
