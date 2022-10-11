@@ -1,0 +1,21 @@
+﻿生成启动时间为 2022/8/13 21:47:24。
+     1>项目“E:\c\Project15\Project15\Project15.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\Project15.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt add.c
+         add.c
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c\Project15\Debug\Project15.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Project15.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\c\Project15\Debug\Project15.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c\Project15\Debug\Project15.lib" /MACHINE:X86 Debug\.obj
+         Debug\add.obj
+         Project15.vcxproj -> E:\c\Project15\Debug\Project15.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\c\Project15\Debug\Project15.exe;#1" /manifest Debug\Project15.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Project15.unsuccessfulbuild”。
+         正在对“Debug\Project15.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\c\Project15\Project15\Project15.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.67
