@@ -1,0 +1,3 @@
+﻿  源.c
+E:\c\Visual Studio 2022\Project80\Project80\源.c(6,1): warning C4305: “初始化”: 从“double”到“float”截断
+  Project80.vcxproj -> E:\c\Visual Studio 2022\Project80\x64\Debug\Project80.exe
